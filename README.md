@@ -1,3 +1,3 @@
-# SPA-MONO
+# spa-mono
 
-Monorepository for simple e-commerce application based on Single Page Application and Serverless architecture.
+Monorepozytorium zawierające projekt prostego sklepu internetowego, bazującego na technologii Single Page Application oraz architekturze serwerless.
