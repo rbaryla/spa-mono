@@ -1,4 +1,4 @@
-workspace {
+workspace "Architektura systemu" "Architektura systemu sklepu internetowego opartego na technologii Single Page Application oraz Serwerless" {
 
     model {
         user = person "User"
@@ -8,10 +8,9 @@ workspace {
     }
 
     views {
-        systemContext softwareSystem {
-            include *
-            autolayout lr
-        }
+        !include views/systemContext.dsl
+        // Dodany domyślny szablon oraz zestaw ikon dla GCP
+        themes https://static.structurizr.com/themes/default/theme.json https://static.structurizr.com/themes/google-cloud-platform-v1.5/theme.json
     }
 
 }
