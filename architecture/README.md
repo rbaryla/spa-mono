@@ -1,6 +1,6 @@
 # Architektura aplikacji
 
-Architektura aplikacji opisana jest za pomocą języka opisu architektury C4, wizualizacja bazyje na oprogramowaniu structurizr ([[https://](https://structurizr.com/)](https://structurizr.com/)).
+Architektura aplikacji opisana jest za pomocą języka opisu architektury C4, wizualizacja bazyje na oprogramowaniu structurizr ([https://structurizr.com/](https://structurizr.com/)).
 
 ## Środowisko do wizualizacji modelu
 
