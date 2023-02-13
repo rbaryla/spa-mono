@@ -9,3 +9,13 @@ Do uruchomienia wizualizacji modelu wymagane jest oprogramowanie Structurizr, na
 `docker compose up`
 
 Model dostępny będzie w przeglądarce pod adresem: [http://localhost:8080](http://localhost:8080)
+
+## Opis architektury systemu
+
+### System landscape
+
+![System landscape](assets/structurizr-1-SystemLandscape.png?raw=true "System landscape")
+
+### System context
+
+![System context](assets/structurizr-1-SystemContext.png?raw=true "System context")

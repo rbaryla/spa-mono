@@ -2,66 +2,260 @@
   "id" : 1,
   "name" : "Architektura systemu",
   "description" : "Architektura systemu sklepu internetowego opartego na technologii Single Page Application oraz Serwerless",
-  "lastModifiedDate" : "2023-02-12T23:20:51Z",
+  "lastModifiedDate" : "2023-02-13T22:33:10Z",
+  "lastModifiedAgent" : "structurizr-javascript",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlICJBcmNoaXRla3R1cmEgc3lzdGVtdSIgIkFyY2hpdGVrdHVyYSBzeXN0ZW11IHNrbGVwdSBpbnRlcm5ldG93ZWdvIG9wYXJ0ZWdvIG5hIHRlY2hub2xvZ2lpIFNpbmdsZSBQYWdlIEFwcGxpY2F0aW9uIG9yYXogU2Vyd2VybGVzcyIgewoKICAgIG1vZGVsIHsKICAgICAgICB1c2VyID0gcGVyc29uICJVc2VyIgogICAgICAgIHNvZnR3YXJlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlNvZnR3YXJlIFN5c3RlbSIKCiAgICAgICAgdXNlciAtPiBzb2Z0d2FyZVN5c3RlbSAiVXNlcyIKICAgIH0KCiAgICB2aWV3cyB7CnN5c3RlbUNvbnRleHQgc29mdHdhcmVTeXN0ZW0gewogICAgaW5jbHVkZSAqCiAgICBhdXRvbGF5b3V0IGxyCn0KICAgICAgICB0aGVtZXMgaHR0cHM6Ly9zdGF0aWMuc3RydWN0dXJpenIuY29tL3RoZW1lcy9kZWZhdWx0L3RoZW1lLmpzb24gaHR0cHM6Ly9zdGF0aWMuc3RydWN0dXJpenIuY29tL3RoZW1lcy9nb29nbGUtY2xvdWQtcGxhdGZvcm0tdjEuNS90aGVtZS5qc29uCiAgICB9Cgp9Cg=="
+    "structurizr.dsl" : "d29ya3NwYWNlICJBcmNoaXRla3R1cmEgc3lzdGVtdSIgIkFyY2hpdGVrdHVyYSBzeXN0ZW11IHNrbGVwdSBpbnRlcm5ldG93ZWdvIG9wYXJ0ZWdvIG5hIHRlY2hub2xvZ2lpIFNpbmdsZSBQYWdlIEFwcGxpY2F0aW9uIG9yYXogU2Vyd2VybGVzcyIgewoKICBtb2RlbCB7CiAgICBjdXN0b21lciA9IHBlcnNvbiAiS2xpZW50IHNrbGVwdSIKZW50ZXJwcmlzZSAiU2tsZXAgU1BBIChTaW5nbGUgUGFnZSBBcHBsaWNhdGlvbikiIHsKICBzcGFTaG9wU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlN5c3RlbSBTUEEgU2hvcCIgIlNrbGVwIGludGVybmV0b3d5IG9wYXJ0eSBuYSB0ZWNobm9sb2dpaSBTUEEgb3JheiBhcmNoaXRla3R1cnplIHNlcndlcmxlc3MiCgogIGFkbWluaXN0cmF0b3IgPSBwZXJzb24gIkFkbWluaXN0cmF0b3Igc3lzdGVtdSIgIkFkbWluaXN0dXJqZSBzeXN0ZW1lbSIKCiAgYWRtaW5pc3RyYXRvciAtPiBzcGFTaG9wU3lzdGVtICJBZG1pbmlzdHJ1amUiCn0KCiAgICBkZXZlbG9wZXIgPSBwZXJzb24gIlByb2dyYW1pc3RhIiAiIiAiRXh0ZXJuYWwiCiAgICBnaXRIdWIgPSBzb2Z0d2FyZVN5c3RlbSAiR2l0SHViIiAiU3lzdGVtIHphcnrEhWR6YWrEhWN5IHByb2Nlc2VtIGFrdHVhbGl6YWNqaSBvcHJvZ3JhbW93YW5pYSBza2xlcHUuIFJlcG96eXRvcml1bSBrb2R1LiIgIkV4dGVybmFsIgogICAgcGF5VSA9IHNvZnR3YXJlU3lzdGVtICJQYXlVIiAiU3lzdGVtIHDFgmF0bm/Fm2NpIGludGVybmV0b3d5Y2giICJFeHRlcm5hbCIKICAgIGlucG9zdCA9IHNvZnR3YXJlU3lzdGVtICJpblBvc3QgV2lkZ2V0IiAiV3lzenVraXdhcmthIHBhY3prb21hdMOzdyIgIkV4dGVybmFsIgoKICAgIGN1c3RvbWVyIC0+IHNwYVNob3BTeXN0ZW0gIkRva29udWplIHpha3Vww7N3IG9uLWxpbmUiCiAgICBnaXRIdWIgLT4gc3BhU2hvcFN5c3RlbSAiQWt0dWFsaXp1ZSBhcGxpa2FjasSZIENJL0NEIgogICAgZGV2ZWxvcGVyIC0+IGdpdEh1YiAiQWt0dWFsaXp1amUga29kIGFwbGlrYWNqaSIKICAgIHNwYVNob3BTeXN0ZW0gLT4gcGF5VSAiUHJ6ZWthenVqZSBpbmZvcm1hY2plIG5hbGV6bmVqIHDFgmF0bm/Fm2NpIgogICAgY3VzdG9tZXIgLT4gcGF5VSAiRG9rb251amUgcMWCYXRub8WbY2kiCiAgICBwYXlVIC0+IHNwYVNob3BTeXN0ZW0gIkluZm9ybXVqZSBvIHN0YXR1c2llIHDFgmF0bm/Fm2NpIgogICAgY3VzdG9tZXIgLT4gaW5wb3N0ICJXeXN6dWt1amUgcGFjemtvbWF0IgogICAgaW5wb3N0IC0+IHNwYVNob3BTeXN0ZW0gIlByemVrYXp1amUgZGFuZSB3eWJyYW5lZ28gcGFjemtvbWF0dSIKICB9CgogIHZpZXdzIHsKICAgIHN5c3RlbWxhbmRzY2FwZSAiU3lzdGVtTGFuZHNjYXBlIiB7CiAgICAgICAgaW5jbHVkZSAqCiAgICB9CgpzeXN0ZW1Db250ZXh0IHNwYVNob3BTeXN0ZW0gewogICAgaW5jbHVkZSBjdXN0b21lciBwYXlVIGlucG9zdCBhZG1pbmlzdHJhdG9yCn0KICAgIC8vIERvZGFueSBkb215xZtsbnkgc3phYmxvbiBvcmF6IHplc3RhdyBpa29uIGRsYSBHQ1AKICAgIHRoZW1lcyBodHRwczovL3N0YXRpYy5zdHJ1Y3R1cml6ci5jb20vdGhlbWVzL2RlZmF1bHQvdGhlbWUuanNvbiBodHRwczovL3N0YXRpYy5zdHJ1Y3R1cml6ci5jb20vdGhlbWVzL2dvb2dsZS1jbG91ZC1wbGF0Zm9ybS12MS41L3RoZW1lLmpzb24KCiAgICBzdHlsZXMgewogICAgICBlbGVtZW50ICJFeHRlcm5hbCIgewogICAgICAgIGJhY2tncm91bmQgIzk5OTk5OQogICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgfQogICAgfQogIH0KCn0K"
   },
   "configuration" : { },
   "model" : {
+    "enterprise" : {
+      "name" : "Sklep SPA (Single Page Application)"
+    },
     "people" : [ {
       "id" : "1",
       "tags" : "Element,Person",
-      "name" : "User",
+      "name" : "Klient sklepu",
       "relationships" : [ {
-        "id" : "3",
+        "id" : "13",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "7",
+        "description" : "Dokonuje płatności"
+      }, {
+        "id" : "9",
         "tags" : "Relationship",
         "sourceId" : "1",
         "destinationId" : "2",
-        "description" : "Uses"
+        "description" : "Dokonuje zakupów on-line"
+      }, {
+        "id" : "15",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "8",
+        "description" : "Wyszukuje paczkomat"
       } ],
-      "location" : "Unspecified"
+      "location" : "External"
+    }, {
+      "id" : "3",
+      "tags" : "Element,Person",
+      "name" : "Administrator systemu",
+      "description" : "Administurje systemem",
+      "relationships" : [ {
+        "id" : "4",
+        "tags" : "Relationship",
+        "sourceId" : "3",
+        "destinationId" : "2",
+        "description" : "Administruje"
+      } ],
+      "location" : "Internal"
+    }, {
+      "id" : "5",
+      "tags" : "Element,Person,External",
+      "name" : "Programista",
+      "relationships" : [ {
+        "id" : "11",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "6",
+        "description" : "Aktualizuje kod aplikacji"
+      } ],
+      "location" : "External"
     } ],
     "softwareSystems" : [ {
+      "id" : "8",
+      "tags" : "Element,Software System,External",
+      "name" : "inPost Widget",
+      "description" : "Wyszukiwarka paczkomatów",
+      "relationships" : [ {
+        "id" : "16",
+        "tags" : "Relationship",
+        "sourceId" : "8",
+        "destinationId" : "2",
+        "description" : "Przekazuje dane wybranego paczkomatu"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "7",
+      "tags" : "Element,Software System,External",
+      "name" : "PayU",
+      "description" : "System płatności internetowych",
+      "relationships" : [ {
+        "id" : "14",
+        "tags" : "Relationship",
+        "sourceId" : "7",
+        "destinationId" : "2",
+        "description" : "Informuje o statusie płatności"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "6",
+      "tags" : "Element,Software System,External",
+      "name" : "GitHub",
+      "description" : "System zarządzający procesem aktualizacji oprogramowania sklepu. Repozytorium kodu.",
+      "relationships" : [ {
+        "id" : "10",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "2",
+        "description" : "Aktualizue aplikację CI/CD"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
       "id" : "2",
       "tags" : "Element,Software System",
-      "name" : "Software System",
-      "location" : "Unspecified",
+      "name" : "System SPA Shop",
+      "description" : "Sklep internetowy oparty na technologii SPA oraz architekturze serwerless",
+      "relationships" : [ {
+        "id" : "12",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "7",
+        "description" : "Przekazuje informacje naleznej płatności"
+      } ],
+      "location" : "Internal",
       "documentation" : { }
     } ]
   },
   "documentation" : { },
   "views" : {
+    "systemLandscapeViews" : [ {
+      "key" : "SystemLandscape",
+      "order" : 1,
+      "paperSize" : "A3_Landscape",
+      "dimensions" : {
+        "width" : 3812,
+        "height" : 2220
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 1662,
+        "y" : 208
+      }, {
+        "id" : "2",
+        "x" : 315,
+        "y" : 1585
+      }, {
+        "id" : "3",
+        "x" : 345,
+        "y" : 650
+      }, {
+        "id" : "5",
+        "x" : 2925,
+        "y" : 65
+      }, {
+        "id" : "6",
+        "x" : 2885,
+        "y" : 1540
+      }, {
+        "id" : "7",
+        "x" : 1637,
+        "y" : 958
+      }, {
+        "id" : "8",
+        "x" : 2185,
+        "y" : 965
+      } ],
+      "relationships" : [ {
+        "id" : "16",
+        "vertices" : [ {
+          "x" : 2400,
+          "y" : 1525
+        } ]
+      }, {
+        "id" : "15"
+      }, {
+        "id" : "14"
+      }, {
+        "id" : "4"
+      }, {
+        "id" : "13"
+      }, {
+        "id" : "12",
+        "vertices" : [ {
+          "x" : 1845,
+          "y" : 1430
+        } ]
+      }, {
+        "id" : "11"
+      }, {
+        "id" : "10"
+      }, {
+        "id" : "9"
+      } ]
+    } ],
     "systemContextViews" : [ {
       "softwareSystemId" : "2",
       "key" : "SystemContext-1",
-      "order" : 1,
-      "automaticLayout" : {
-        "implementation" : "Graphviz",
-        "rankDirection" : "LeftRight",
-        "rankSeparation" : 300,
-        "nodeSeparation" : 300,
-        "edgeSeparation" : 0,
-        "vertices" : false
+      "order" : 2,
+      "paperSize" : "A4_Landscape",
+      "dimensions" : {
+        "width" : 3062,
+        "height" : 2220
       },
       "enterpriseBoundaryVisible" : true,
-      "relationships" : [ {
-        "id" : "3"
-      } ],
       "elements" : [ {
         "id" : "1",
-        "x" : 0,
-        "y" : 0
+        "x" : 1662,
+        "y" : 208
       }, {
         "id" : "2",
-        "x" : 0,
-        "y" : 0
+        "x" : 329,
+        "y" : 1608
+      }, {
+        "id" : "3",
+        "x" : 329,
+        "y" : 908
+      }, {
+        "id" : "7",
+        "x" : 1637,
+        "y" : 958
+      }, {
+        "id" : "8",
+        "x" : 2490,
+        "y" : 1235
+      } ],
+      "relationships" : [ {
+        "id" : "16",
+        "vertices" : [ {
+          "x" : 2715,
+          "y" : 1705
+        } ]
+      }, {
+        "id" : "15"
+      }, {
+        "id" : "14"
+      }, {
+        "id" : "4"
+      }, {
+        "id" : "13"
+      }, {
+        "id" : "12",
+        "vertices" : [ {
+          "x" : 1855,
+          "y" : 1430
+        } ]
+      }, {
+        "id" : "9"
       } ]
     } ],
     "configuration" : {
       "branding" : { },
-      "styles" : { },
+      "styles" : {
+        "elements" : [ {
+          "tag" : "External",
+          "background" : "#999999",
+          "color" : "#ffffff"
+        } ]
+      },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json", "https://static.structurizr.com/themes/google-cloud-platform-v1.5/theme.json" ],
-      "terminology" : { }
+      "terminology" : { },
+      "metadataSymbols" : "SquareBrackets",
+      "lastSavedView" : "SystemContext-1"
     }
   }
 }
