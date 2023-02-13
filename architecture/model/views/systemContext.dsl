@@ -1,4 +1,3 @@
-systemContext softwareSystem {
-    include *
-    autolayout lr
+systemContext spaShopSystem {
+    include customer payU inpost administrator
 }
