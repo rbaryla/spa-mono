@@ -20,11 +20,15 @@ workspace "Architektura systemu" "Architektura systemu sklepu internetowego opar
   }
 
   views {
-    systemlandscape "SystemLandscape" {
+    systemlandscape "SystemLandscapeView" "Panoramiczny widok aplikacji" {
         include *
     }
 
     !include views/systemContext.dsl
+
+    // Widok kontenerów
+    !include views/container.dsl
+
     // Dodany domyślny szablon oraz zestaw ikon dla GCP
     themes https://static.structurizr.com/themes/default/theme.json https://static.structurizr.com/themes/google-cloud-platform-v1.5/theme.json
 
