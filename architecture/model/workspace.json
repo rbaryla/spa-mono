@@ -2,9 +2,10 @@
   "id" : 1,
   "name" : "Architektura systemu",
   "description" : "Architektura systemu sklepu internetowego opartego na technologii Single Page Application oraz Serwerless",
-  "lastModifiedDate" : "2023-02-18T22:53:14Z",
+  "lastModifiedDate" : "2023-04-17T04:31:53Z",
+  "lastModifiedAgent" : "structurizr-javascript",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlICJBcmNoaXRla3R1cmEgc3lzdGVtdSIgIkFyY2hpdGVrdHVyYSBzeXN0ZW11IHNrbGVwdSBpbnRlcm5ldG93ZWdvIG9wYXJ0ZWdvIG5hIHRlY2hub2xvZ2lpIFNpbmdsZSBQYWdlIEFwcGxpY2F0aW9uIG9yYXogU2Vyd2VybGVzcyIgewoKICBtb2RlbCB7CiAgICBjdXN0b21lciA9IHBlcnNvbiAiS2xpZW50IHNrbGVwdSIKZW50ZXJwcmlzZSAiU2tsZXAgU1BBIChTaW5nbGUgUGFnZSBBcHBsaWNhdGlvbikiIHsKc3BhU2hvcFN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJTeXN0ZW0gU1BBIFNob3AiICJTa2xlcCBpbnRlcm5ldG93eSBvcGFydHkgbmEgdGVjaG5vbG9naWkgU1BBIG9yYXogYXJjaGl0ZWt0dXJ6ZSBzZXJ3ZXJsZXNzIiB7CiAgICAKfQoKICBhZG1pbmlzdHJhdG9yID0gcGVyc29uICJBZG1pbmlzdHJhdG9yIHN5c3RlbXUiICJBZG1pbmlzdHVyamUgc3lzdGVtZW0iCgogIGFkbWluaXN0cmF0b3IgLT4gc3BhU2hvcFN5c3RlbSAiQWRtaW5pc3RydWplIgp9CgogICAgZGV2ZWxvcGVyID0gcGVyc29uICJQcm9ncmFtaXN0YSIgIiIgIkV4dGVybmFsIgogICAgZ2l0SHViID0gc29mdHdhcmVTeXN0ZW0gIkdpdEh1YiIgIlN5c3RlbSB6YXJ6xIVkemFqxIVjeSBwcm9jZXNlbSBha3R1YWxpemFjamkgb3Byb2dyYW1vd2FuaWEgc2tsZXB1LiBSZXBvenl0b3JpdW0ga29kdS4iICJFeHRlcm5hbCIKICAgIHBheVUgPSBzb2Z0d2FyZVN5c3RlbSAiUGF5VSIgIlN5c3RlbSBwxYJhdG5vxZtjaSBpbnRlcm5ldG93eWNoIiAiRXh0ZXJuYWwiCiAgICBpbnBvc3QgPSBzb2Z0d2FyZVN5c3RlbSAiaW5Qb3N0IFdpZGdldCIgIld5c3p1a2l3YXJrYSBwYWN6a29tYXTDs3ciICJFeHRlcm5hbCIKCiAgICBjdXN0b21lciAtPiBzcGFTaG9wU3lzdGVtICJEb2tvbnVqZSB6YWt1cMOzdyBvbi1saW5lIgogICAgZ2l0SHViIC0+IHNwYVNob3BTeXN0ZW0gIkFrdHVhbGl6dWUgYXBsaWthY2rEmSBDSS9DRCIKICAgIGRldmVsb3BlciAtPiBnaXRIdWIgIkFrdHVhbGl6dWplIGtvZCBhcGxpa2FjamkiCiAgICBzcGFTaG9wU3lzdGVtIC0+IHBheVUgIlByemVrYXp1amUgaW5mb3JtYWNqZSBuYWxlem5laiBwxYJhdG5vxZtjaSIKICAgIGN1c3RvbWVyIC0+IHBheVUgIkRva29udWplIHDFgmF0bm/Fm2NpIgogICAgcGF5VSAtPiBzcGFTaG9wU3lzdGVtICJJbmZvcm11amUgbyBzdGF0dXNpZSBwxYJhdG5vxZtjaSIKICAgIGN1c3RvbWVyIC0+IGlucG9zdCAiV3lzenVrdWplIHBhY3prb21hdCIKICAgIGlucG9zdCAtPiBzcGFTaG9wU3lzdGVtICJQcnpla2F6dWplIGRhbmUgd3licmFuZWdvIHBhY3prb21hdHUiCiAgfQoKICB2aWV3cyB7CiAgICBzeXN0ZW1sYW5kc2NhcGUgIlN5c3RlbUxhbmRzY2FwZVZpZXciICJQYW5vcmFtaWN6bnkgd2lkb2sgYXBsaWthY2ppIiB7CiAgICAgICAgaW5jbHVkZSAqCiAgICB9CgpzeXN0ZW1Db250ZXh0IHNwYVNob3BTeXN0ZW0gIlN5c3RlbUNvbnRleHRWaWV3IiAiV2lkb2sga29udGVrc3Rvd3kgYXBsaWthY2ppIiB7CiAgICBpbmNsdWRlIGN1c3RvbWVyIHBheVUgaW5wb3N0IGFkbWluaXN0cmF0b3IKfQoKICAgIC8vIFdpZG9rIGtvbnRlbmVyw7N3CmNvbnRhaW5lciBzcGFTaG9wU3lzdGVtICJDb250YWluZXJWaWV3IiAiV2lkb2sgc2vFgmFkbmlrw7N3IHN5c3RlbXUiIHsKICAgIGluY2x1ZGUgKgp9CgogICAgLy8gRG9kYW55IGRvbXnFm2xueSBzemFibG9uIG9yYXogemVzdGF3IGlrb24gZGxhIEdDUAogICAgdGhlbWVzIGh0dHBzOi8vc3RhdGljLnN0cnVjdHVyaXpyLmNvbS90aGVtZXMvZGVmYXVsdC90aGVtZS5qc29uIGh0dHBzOi8vc3RhdGljLnN0cnVjdHVyaXpyLmNvbS90aGVtZXMvZ29vZ2xlLWNsb3VkLXBsYXRmb3JtLXYxLjUvdGhlbWUuanNvbgoKICAgIHN0eWxlcyB7CiAgICAgIGVsZW1lbnQgIkV4dGVybmFsIiB7CiAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICB9CiAgICB9CiAgfQoKfQo="
+    "structurizr.dsl" : "d29ya3NwYWNlICJBcmNoaXRla3R1cmEgc3lzdGVtdSIgIkFyY2hpdGVrdHVyYSBzeXN0ZW11IHNrbGVwdSBpbnRlcm5ldG93ZWdvIG9wYXJ0ZWdvIG5hIHRlY2hub2xvZ2lpIFNpbmdsZSBQYWdlIEFwcGxpY2F0aW9uIG9yYXogU2Vyd2VybGVzcyIgewogIAogICFpbXBsaWVkUmVsYXRpb25zaGlwcyBmYWxzZQoKICBtb2RlbCB7CiAgICBjdXN0b21lciA9IHBlcnNvbiAiS2xpZW50IHNrbGVwdSIKZW50ZXJwcmlzZSAiU2tsZXAgU1BBIChTaW5nbGUgUGFnZSBBcHBsaWNhdGlvbikiIHsKCiAgYWRtaW5pc3RyYXRvciA9IHBlcnNvbiAiQWRtaW5pc3RyYXRvciBzeXN0ZW11IiAiQWRtaW5pc3R1cmplIHN5c3RlbWVtIgpzcGFTaG9wU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlN5c3RlbSBTUEEgU2hvcCIgIlNrbGVwIGludGVybmV0b3d5IG9wYXJ0eSBuYSB0ZWNobm9sb2dpaSBTUEEgb3JheiBhcmNoaXRla3R1cnplIHNlcndlcmxlc3MiIHsKICAgIC8vIHRvZG86IGFkZCBjb250YWluZXJzIGhlcmUKICAgIGZpcmViYXNlSG9zdGluZ0NvbnRhaW5lciA9IGNvbnRhaW5lciAiSG9zdGluZyBrb250ZW50dSBzdGF0eWN6bmVnbyIgIkRvc3RyY3phIHN0YXR5Y3pueSBrb250ZW50IGFwbGlrYWNqaSIKCiAgICBjdXN0b21lciAtPiBmaXJlYmFzZUhvc3RpbmdDb250YWluZXIgIk9kd2llZHphIGFkcmVzIGRvbWVueSBnxYLDs3duZWogc2tsZXB1IgogICAgYWRtaW5pc3RyYXRvciAtPiBmaXJlYmFzZUhvc3RpbmdDb250YWluZXIgIk9kd2llZHphIGFyZXMgc3ViZG9tZW55IGFkbWluaXN0cmFjeWpuZWogc2tsZXB1IgoKICAgIGZpcmViYXNlRmlyZXN0b3JlQ29udGFpbmVyID0gY29udGFpbmVyICJCYXphIGRhbnljaCBjemFzdSByemVjenl3aXN0ZWdvIiAiVXRyenltdWplIHN0YW4gYXBsaWthY2ppIgoKICAgIGN1c3RvbWVyIC0+IGZpcmViYXNlRmlyZXN0b3JlQ29udGFpbmVyICJJbmljanVqZSBzZXNqxJkiCgp9CgogIGFkbWluaXN0cmF0b3IgLT4gc3BhU2hvcFN5c3RlbSAiQWRtaW5pc3RydWplIgp9CgogICAgZGV2ZWxvcGVyID0gcGVyc29uICJQcm9ncmFtaXN0YSIgIiIgIkV4dGVybmFsIgogICAgZ2l0SHViID0gc29mdHdhcmVTeXN0ZW0gIkdpdEh1YiIgIlN5c3RlbSB6YXJ6xIVkemFqxIVjeSBwcm9jZXNlbSBha3R1YWxpemFjamkgb3Byb2dyYW1vd2FuaWEgc2tsZXB1LiBSZXBvenl0b3JpdW0ga29kdS4iICJFeHRlcm5hbCIKICAgIHBheVUgPSBzb2Z0d2FyZVN5c3RlbSAiUGF5VSIgIlN5c3RlbSBwxYJhdG5vxZtjaSBpbnRlcm5ldG93eWNoIiAiRXh0ZXJuYWwiCiAgICBpbnBvc3QgPSBzb2Z0d2FyZVN5c3RlbSAiaW5Qb3N0IFdpZGdldCIgIld5c3p1a2l3YXJrYSBwYWN6a29tYXTDs3ciICJFeHRlcm5hbCIKCiAgICBjdXN0b21lciAtPiBzcGFTaG9wU3lzdGVtICJEb2tvbnVqZSB6YWt1cMOzdyBvbi1saW5lIgogICAgZ2l0SHViIC0+IHNwYVNob3BTeXN0ZW0gIkFrdHVhbGl6dWUgYXBsaWthY2rEmSBDSS9DRCIKICAgIGRldmVsb3BlciAtPiBnaXRIdWIgIkFrdHVhbGl6dWplIGtvZCBhcGxpa2FjamkiCiAgICBzcGFTaG9wU3lzdGVtIC0+IHBheVUgIlByemVrYXp1amUgaW5mb3JtYWNqZSBuYWxlem5laiBwxYJhdG5vxZtjaSIKICAgIGN1c3RvbWVyIC0+IHBheVUgIkRva29udWplIHDFgmF0bm/Fm2NpIgogICAgcGF5VSAtPiBzcGFTaG9wU3lzdGVtICJJbmZvcm11amUgbyBzdGF0dXNpZSBwxYJhdG5vxZtjaSIKICAgIGN1c3RvbWVyIC0+IGlucG9zdCAiV3lzenVrdWplIHBhY3prb21hdCIKICAgIGlucG9zdCAtPiBzcGFTaG9wU3lzdGVtICJQcnpla2F6dWplIGRhbmUgd3licmFuZWdvIHBhY3prb21hdHUiCiAgfQoKICB2aWV3cyB7CnN5c3RlbWxhbmRzY2FwZSAiU3lzdGVtTGFuZHNjYXBlVmlldyIgIlBhbm9yYW1pY3pueSB3aWRvayBhcGxpa2FjamkiIHsKICAgIGluY2x1ZGUgKgp9CgpzeXN0ZW1Db250ZXh0IHNwYVNob3BTeXN0ZW0gIlN5c3RlbUNvbnRleHRWaWV3IiAiV2lkb2sga29udGVrc3Rvd3kgYXBsaWthY2ppIiB7CiAgICBpbmNsdWRlIGN1c3RvbWVyIHBheVUgaW5wb3N0IGFkbWluaXN0cmF0b3IKfQoKICAgIC8vIFdpZG9rIGtvbnRlbmVyw7N3CmNvbnRhaW5lciBzcGFTaG9wU3lzdGVtICJDb250YWluZXJWaWV3IiAiV2lkb2sgc2vFgmFkbmlrw7N3IHN5c3RlbXUiIHsKICAgIGluY2x1ZGUgKgogICAgYXV0b2xheW91dAp9CgogICAgLy8gRG9kYW55IGRvbXnFm2xueSBzemFibG9uIG9yYXogemVzdGF3IGlrb24gZGxhIEdDUAogICAgdGhlbWVzIGh0dHBzOi8vc3RhdGljLnN0cnVjdHVyaXpyLmNvbS90aGVtZXMvZGVmYXVsdC90aGVtZS5qc29uIGh0dHBzOi8vc3RhdGljLnN0cnVjdHVyaXpyLmNvbS90aGVtZXMvZ29vZ2xlLWNsb3VkLXBsYXRmb3JtLXYxLjUvdGhlbWUuanNvbgoKICAgIHN0eWxlcyB7CiAgICAgIGVsZW1lbnQgIkV4dGVybmFsIiB7CiAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICB9CiAgICAgIGVsZW1lbnQgIldlYiBCcm93c2VyIiB7CiAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICB9CiAgICAgIGVsZW1lbnQgIkRhdGFiYXNlIiB7CiAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgfQogICAgfQogIH0KCn0K"
   },
   "configuration" : { },
   "model" : {
@@ -16,103 +17,134 @@
       "tags" : "Element,Person",
       "name" : "Klient sklepu",
       "relationships" : [ {
-        "id" : "9",
+        "id" : "14",
         "tags" : "Relationship",
         "sourceId" : "1",
-        "destinationId" : "2",
+        "destinationId" : "3",
         "description" : "Dokonuje zakupów on-line"
       }, {
-        "id" : "13",
+        "id" : "18",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "12",
+        "description" : "Dokonuje płatności"
+      }, {
+        "id" : "8",
         "tags" : "Relationship",
         "sourceId" : "1",
         "destinationId" : "7",
-        "description" : "Dokonuje płatności"
+        "description" : "Inicjuje sesję"
       }, {
-        "id" : "15",
+        "id" : "5",
         "tags" : "Relationship",
         "sourceId" : "1",
-        "destinationId" : "8",
+        "destinationId" : "4",
+        "description" : "Odwiedza adres domeny głównej sklepu"
+      }, {
+        "id" : "20",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "13",
         "description" : "Wyszukuje paczkomat"
       } ],
       "location" : "External"
     }, {
-      "id" : "3",
+      "id" : "10",
+      "tags" : "Element,Person,External",
+      "name" : "Programista",
+      "relationships" : [ {
+        "id" : "16",
+        "tags" : "Relationship",
+        "sourceId" : "10",
+        "destinationId" : "11",
+        "description" : "Aktualizuje kod aplikacji"
+      } ],
+      "location" : "External"
+    }, {
+      "id" : "2",
       "tags" : "Element,Person",
       "name" : "Administrator systemu",
       "description" : "Administurje systemem",
       "relationships" : [ {
-        "id" : "4",
+        "id" : "6",
         "tags" : "Relationship",
-        "sourceId" : "3",
-        "destinationId" : "2",
+        "sourceId" : "2",
+        "destinationId" : "4",
+        "description" : "Odwiedza ares subdomeny administracyjnej sklepu"
+      }, {
+        "id" : "9",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "3",
         "description" : "Administruje"
       } ],
       "location" : "Internal"
-    }, {
-      "id" : "5",
-      "tags" : "Element,Person,External",
-      "name" : "Programista",
-      "relationships" : [ {
-        "id" : "11",
-        "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "6",
-        "description" : "Aktualizuje kod aplikacji"
-      } ],
-      "location" : "External"
     } ],
     "softwareSystems" : [ {
-      "id" : "2",
+      "id" : "3",
       "tags" : "Element,Software System",
       "name" : "System SPA Shop",
       "description" : "Sklep internetowy oparty na technologii SPA oraz architekturze serwerless",
       "relationships" : [ {
-        "id" : "12",
+        "id" : "17",
         "tags" : "Relationship",
-        "sourceId" : "2",
-        "destinationId" : "7",
+        "sourceId" : "3",
+        "destinationId" : "12",
         "description" : "Przekazuje informacje naleznej płatności"
       } ],
       "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "6",
-      "tags" : "Element,Software System,External",
-      "name" : "GitHub",
-      "description" : "System zarządzający procesem aktualizacji oprogramowania sklepu. Repozytorium kodu.",
-      "relationships" : [ {
-        "id" : "10",
-        "tags" : "Relationship",
-        "sourceId" : "6",
-        "destinationId" : "2",
-        "description" : "Aktualizue aplikację CI/CD"
+      "containers" : [ {
+        "id" : "7",
+        "tags" : "Element,Container",
+        "name" : "Baza danych czasu rzeczywistego",
+        "description" : "Utrzymuje stan aplikacji",
+        "documentation" : { }
+      }, {
+        "id" : "4",
+        "tags" : "Element,Container",
+        "name" : "Hosting kontentu statycznego",
+        "description" : "Dostrcza statyczny kontent aplikacji",
+        "documentation" : { }
       } ],
-      "location" : "External",
       "documentation" : { }
     }, {
-      "id" : "7",
+      "id" : "12",
       "tags" : "Element,Software System,External",
       "name" : "PayU",
       "description" : "System płatności internetowych",
       "relationships" : [ {
-        "id" : "14",
+        "id" : "19",
         "tags" : "Relationship",
-        "sourceId" : "7",
-        "destinationId" : "2",
+        "sourceId" : "12",
+        "destinationId" : "3",
         "description" : "Informuje o statusie płatności"
       } ],
       "location" : "External",
       "documentation" : { }
     }, {
-      "id" : "8",
+      "id" : "11",
+      "tags" : "Element,Software System,External",
+      "name" : "GitHub",
+      "description" : "System zarządzający procesem aktualizacji oprogramowania sklepu. Repozytorium kodu.",
+      "relationships" : [ {
+        "id" : "15",
+        "tags" : "Relationship",
+        "sourceId" : "11",
+        "destinationId" : "3",
+        "description" : "Aktualizue aplikację CI/CD"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "13",
       "tags" : "Element,Software System,External",
       "name" : "inPost Widget",
       "description" : "Wyszukiwarka paczkomatów",
       "relationships" : [ {
-        "id" : "16",
+        "id" : "21",
         "tags" : "Relationship",
-        "sourceId" : "8",
-        "destinationId" : "2",
+        "sourceId" : "13",
+        "destinationId" : "3",
         "description" : "Przekazuje dane wybranego paczkomatu"
       } ],
       "location" : "External",
@@ -127,69 +159,77 @@
       "order" : 1,
       "paperSize" : "A3_Landscape",
       "dimensions" : {
-        "width" : 3812,
+        "width" : 4112,
         "height" : 2220
       },
       "enterpriseBoundaryVisible" : true,
-      "elements" : [ {
-        "id" : "1",
-        "x" : 1662,
-        "y" : 208
-      }, {
-        "id" : "2",
-        "x" : 329,
-        "y" : 1608
-      }, {
-        "id" : "3",
-        "x" : 329,
-        "y" : 908
-      }, {
-        "id" : "5",
-        "x" : 3162,
-        "y" : 208
-      }, {
-        "id" : "6",
-        "x" : 3160,
-        "y" : 1575
-      }, {
-        "id" : "7",
-        "x" : 1637,
-        "y" : 958
-      }, {
-        "id" : "8",
-        "x" : 2335,
-        "y" : 1260
-      } ],
       "relationships" : [ {
+        "id" : "18"
+      }, {
+        "id" : "17",
+        "vertices" : [ {
+          "x" : 1465,
+          "y" : 1075
+        } ]
+      }, {
         "id" : "16"
       }, {
         "id" : "15"
       }, {
         "id" : "14",
         "vertices" : [ {
-          "x" : 1141,
-          "y" : 1298
+          "x" : 945,
+          "y" : 995
         } ]
       }, {
-        "id" : "4"
-      }, {
-        "id" : "13"
-      }, {
-        "id" : "12",
+        "id" : "21",
         "vertices" : [ {
-          "x" : 1274,
-          "y" : 1567
+          "x" : 2915,
+          "y" : 1430
         } ]
       }, {
-        "id" : "11"
-      }, {
-        "id" : "10"
+        "id" : "20",
+        "vertices" : [ {
+          "x" : 2537,
+          "y" : 804
+        } ]
       }, {
         "id" : "9"
+      }, {
+        "id" : "19"
+      } ],
+      "elements" : [ {
+        "id" : "11",
+        "x" : 3465,
+        "y" : 1575
+      }, {
+        "id" : "12",
+        "x" : 1937,
+        "y" : 958
+      }, {
+        "id" : "1",
+        "x" : 1133,
+        "y" : 208
+      }, {
+        "id" : "13",
+        "x" : 2687,
+        "y" : 958
+      }, {
+        "id" : "2",
+        "x" : 329,
+        "y" : 908
+      }, {
+        "id" : "3",
+        "x" : 329,
+        "y" : 1608
+      }, {
+        "id" : "10",
+        "x" : 3462,
+        "y" : 208
       } ]
     } ],
     "systemContextViews" : [ {
-      "softwareSystemId" : "2",
+      "softwareSystemId" : "3",
       "description" : "Widok kontekstowy aplikacji",
       "key" : "SystemContextView",
       "order" : 2,
@@ -199,57 +239,102 @@
         "height" : 2220
       },
       "enterpriseBoundaryVisible" : true,
-      "elements" : [ {
-        "id" : "1",
-        "x" : 1662,
-        "y" : 208
-      }, {
-        "id" : "2",
-        "x" : 329,
-        "y" : 1608
-      }, {
-        "id" : "3",
-        "x" : 329,
-        "y" : 908
-      }, {
-        "id" : "7",
-        "x" : 1637,
-        "y" : 958
-      }, {
-        "id" : "8",
-        "x" : 2460,
-        "y" : 1340
-      } ],
       "relationships" : [ {
-        "id" : "16"
+        "id" : "18"
       }, {
-        "id" : "15"
-      }, {
-        "id" : "14",
-        "vertices" : [ {
-          "x" : 1141,
-          "y" : 1298
-        } ]
-      }, {
-        "id" : "4"
-      }, {
-        "id" : "13"
-      }, {
-        "id" : "12",
+        "id" : "17",
         "vertices" : [ {
           "x" : 1274,
           "y" : 1567
         } ]
       }, {
-        "id" : "9"
+        "id" : "14",
+        "vertices" : [ {
+          "x" : 1100,
+          "y" : 978
+        } ]
+      }, {
+        "id" : "21"
+      }, {
+        "id" : "20"
+      }, {
+        "id" : "9",
+        "vertices" : [ {
+          "x" : 550,
+          "y" : 1445
+        } ]
+      }, {
+        "id" : "19",
+        "vertices" : [ {
+          "x" : 1141,
+          "y" : 1298
+        } ]
+      } ],
+      "elements" : [ {
+        "id" : "1",
+        "x" : 1662,
+        "y" : 208
+      }, {
+        "id" : "12",
+        "x" : 1637,
+        "y" : 958
+      }, {
+        "id" : "13",
+        "x" : 2460,
+        "y" : 1340
+      }, {
+        "id" : "2",
+        "x" : 329,
+        "y" : 908
+      }, {
+        "id" : "3",
+        "x" : 329,
+        "y" : 1608
       } ]
     } ],
     "containerViews" : [ {
-      "softwareSystemId" : "2",
+      "softwareSystemId" : "3",
       "description" : "Widok składników systemu",
       "key" : "ContainerView",
       "order" : 3,
-      "externalSoftwareSystemBoundariesVisible" : true
+      "paperSize" : "A5_Landscape",
+      "dimensions" : {
+        "width" : 1858,
+        "height" : 1520
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "externalSoftwareSystemBoundariesVisible" : true,
+      "relationships" : [ {
+        "id" : "5"
+      }, {
+        "id" : "6"
+      }, {
+        "id" : "8"
+      } ],
+      "elements" : [ {
+        "id" : "1",
+        "x" : 379,
+        "y" : 208
+      }, {
+        "id" : "2",
+        "x" : 1104,
+        "y" : 208
+      }, {
+        "id" : "4",
+        "x" : 1079,
+        "y" : 908
+      }, {
+        "id" : "7",
+        "x" : 329,
+        "y" : 908
+      } ]
     } ],
     "configuration" : {
       "branding" : { },
@@ -258,10 +343,17 @@
           "tag" : "External",
           "background" : "#999999",
           "color" : "#ffffff"
+        }, {
+          "tag" : "Web Browser",
+          "shape" : "WebBrowser"
+        }, {
+          "tag" : "Database",
+          "shape" : "Cylinder"
         } ]
       },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json", "https://static.structurizr.com/themes/google-cloud-platform-v1.5/theme.json" ],
       "terminology" : { },
+      "metadataSymbols" : "SquareBrackets",
       "lastSavedView" : "SystemContextView"
     }
   }

@@ -1,4 +1,6 @@
 workspace "Architektura systemu" "Architektura systemu sklepu internetowego opartego na technologii Single Page Application oraz Serwerless" {
+  
+  !impliedRelationships false
 
   model {
     customer = person "Klient sklepu"
@@ -20,9 +22,7 @@ workspace "Architektura systemu" "Architektura systemu sklepu internetowego opar
   }
 
   views {
-    systemlandscape "SystemLandscapeView" "Panoramiczny widok aplikacji" {
-        include *
-    }
+    !include views/systemLandscape.dsl
 
     !include views/systemContext.dsl
 
@@ -36,6 +36,12 @@ workspace "Architektura systemu" "Architektura systemu sklepu internetowego opar
       element "External" {
         background #999999
         color #ffffff
+      }
+      element "Web Browser" {
+        shape WebBrowser
+      }
+      element "Database" {
+        shape Cylinder
       }
     }
   }
